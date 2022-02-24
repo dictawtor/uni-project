@@ -304,7 +304,7 @@ ul.speciallink li:hover a {
 
 .contentbox header img {
     width: 200px;
-    height: 250px;
+    height: auto;
     margin: 10px auto;
     max-width: 100%;
 }
